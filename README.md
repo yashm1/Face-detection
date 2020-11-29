@@ -1,5 +1,5 @@
-# NFT-project
-Age Detection using Neural Networks
+# Age Detection Using Neural Networks
+
 
 
 ## DataSet
